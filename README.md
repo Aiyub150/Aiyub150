@@ -10,11 +10,9 @@
 
 ###
 
-###
-
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ndr5a5ghtsiqlkm6p7mlmwrdpa)
-
-###
+<div data-importer="spotify" align="center">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ndr5a5ghtsiqlkm6p7mlmwrdpa" alt="Spotify recently played" />
+</div>
 
 ###
 
@@ -68,10 +66,12 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
+<div data-importer="pacman" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  </picture>
+</div>
 
 ###

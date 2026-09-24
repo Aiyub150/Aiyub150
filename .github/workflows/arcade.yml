@@ -1,0 +1,38 @@
+name: Generate arcade animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.TOKEN || secrets.GH_TOKEN || secrets.PAT || secrets.GITHUB_TOKEN }}
+          games: 'puzzle-bobble'
+
+      - name: push puzzle-bobble-contribution-graph.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN || secrets.GH_TOKEN || secrets.PAT || secrets.GITHUB_TOKEN }}
