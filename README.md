@@ -10,12 +10,6 @@
 
 ###
 
-<div data-importer="spotify" align="center">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ndr5a5ghtsiqlkm6p7mlmwrdpa" alt="Spotify recently played" />
-</div>
-
-###
-
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
