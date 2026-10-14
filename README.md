@@ -1,64 +1,75 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="img/banner LinkedIn.webp"  />
+<div align="center">
+  <img src="img/banner LinkedIn.webp" width="100%" alt="Aiyub Heriyanto Banner" />
 </div>
 
+<br/>
+
+```bash
+┌──(aiyub㉿workspace)-[~]
+└─$ whoami
+Aiyub Heriyanto — Software Engineer & Hardware Tinkerer
+
+┌──(aiyub㉿workspace)-[~]
+└─$ cat about.txt
+Halo! Saya Aiyub. Sehari-hari saya banyak berkutat di backend engineering (Go & Laravel),
+ngerancang web app, dan ngoprek perangkat keras (IoT, mikrokontroler, sampai computer vision untuk edge devices).
+
+Lebih suka bikin sistem yang arsitekturnya bersih, kencang, dan gampang dirawat daripada yang ribet atau over-engineered.
+Kalau lagi nggak di depan terminal, biasanya lagi nyolder sirkuit, ngulik robotika, atau nyoba hal-hal baru seputar AI.
+
+┌──(aiyub㉿workspace)-[~]
+└─$ ./status.sh
+[OK] Location       : East Java / Nusantara, ID
+[OK] Daily Drivers  : Go, Laravel, React, Python, C/C++
+[OK] Current Vibe   : Building & refining full-stack services & edge models
+```
+
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Aiyub150.Aiyub150&"  />
+### 🛠️ `[01]` Tech Stack & Tools
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | <a href="#"><img src="https://skillicons.dev/icons?i=go,py,php,js,ts,cpp,cs" alt="Languages" /></a> |
+| **Backend & Architecture** | `Go (Fiber)` `Laravel` `Node.js` `Hexagonal Architecture` `Granular RBAC` `Keycloak SSO` |
+| **Frontend & UI** | `React.js` `Vite` `Tailwind CSS` `Bootstrap 5` `Blade` |
+| **Edge AI & Hardware** | `OpenCV` `YOLOv8` `MediaPipe` `CNN + LSTM` `RFID & Sensors` `Robotics (Sumo)` |
+| **DevOps & Database** | `PostgreSQL` `MySQL` `Docker` `Linux / Ubuntu` `Git` |
+
+###
+
+### 📊 `[02]` GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aiyub150&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&border_radius=8" height="165" alt="Aiyub's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/languages-output/languages.svg" height="165" alt="Top Languages" />
 </div>
 
-###
+<br/>
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/aiyub-heriyanto-204441338/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.youtube.com/@AiyubHeriyanto150"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/aiyub.150/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
-  <a href="https://www.facebook.com/profile.php?id=100083725129234"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
-</div>
-
-###
-
-<div data-importer="pacman" align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+    <img alt="Arcade Contribution Graph" src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble" width="100%">
   </picture>
 </div>
 
 ###
+
+### 🤝 Let's Connect
+
+> *Tertarik ngobrol atau kolaborasi bareng? Pintu selalu terbuka untuk diskusi seputar software engineering, eksplorasi IoT/hardware, atau proyek open-source baru.*
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aiyub-heriyanto-204441338/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:aiyubheriyanto150@gmail.com"><img src="https://img.shields.io/badge/Email-aiyubheriyanto150%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/aiyub.150/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" /></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@AiyubHeriyanto150"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="YouTube" /></a>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiyub150.Aiyub150&" height="28" alt="Views" />
+</div>
