@@ -43,11 +43,11 @@
   <text x="24" y="122" class="t-mono" font-size="13.5">
     <tspan class="t-prompt">aiyub@workspace:~$</tspan> <tspan class="t-cmd">cat about.txt</tspan>
   </text>
-  <text x="24" y="146" class="t-sans t-body">Halo! Saya Aiyub. Sehari-hari saya banyak berkutat di backend engineering (Go &amp; Laravel), ngerancang web app,</text>
-  <text x="24" y="166" class="t-sans t-body">dan ngoprek perangkat keras (IoT, mikrokontroler, sampai computer vision untuk edge devices).</text>
+  <text x="24" y="146" class="t-sans t-body">Hey! I'm Aiyub. Most of my days are spent in backend engineering (Go &amp; Laravel), architecting web apps,</text>
+  <text x="24" y="166" class="t-sans t-body">and tinkering with hardware (IoT, microcontrollers, and computer vision on edge devices).</text>
   
-  <text x="24" y="196" class="t-sans t-body">Lebih suka bikin sistem yang arsitekturnya bersih, kencang, dan gampang dirawat daripada yang ribet atau over-engineered.</text>
-  <text x="24" y="216" class="t-sans t-body">Kalau lagi nggak di depan terminal, biasanya lagi nyolder sirkuit, ngulik robotika, atau nyoba hal-hal baru seputar AI.</text>
+  <text x="24" y="196" class="t-sans t-body">I value clean, fast, and maintainable systems over unnecessary complexity or over-engineering.</text>
+  <text x="24" y="216" class="t-sans t-body">Outside the terminal, I'm usually soldering circuits, exploring robotics, or experimenting with new AI tools.</text>
 
   <!-- Line 3: status.sh -->
   <text x="24" y="254" class="t-mono" font-size="13.5">
