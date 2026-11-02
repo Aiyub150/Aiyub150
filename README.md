@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/banner LinkedIn.webp" width="100%" alt="Aiyub Heriyanto Banner" />
+  <img src="img/cat_retro_runner.gif" width="100%" alt="Aiyub Heriyanto Banner" />
 </div>
 
 <br/>
@@ -35,7 +35,7 @@
 ### 📊 `[02]` GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiyub150&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&border_radius=8" height="165" alt="Aiyub's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Aiyub150&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&border_radius=8" height="165" alt="Aiyub's GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/languages-output/languages.svg" height="165" alt="Top Languages" />
 </div>
@@ -44,8 +44,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-    <img alt="Arcade Contribution Graph" src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Aiyub150/Aiyub150/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" width="100%">
   </picture>
 </div>
